@@ -20,6 +20,18 @@ The data was extracted from: [https://github.com/mattbierbaum/arxiv-public-datas
 ## Results
 
 
+### In-degree and Out-degree analysis
+
+<div class="row">
+  <div class="column">
+    <img src="in_degree_distribution.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="out_degree_distribution.png" alt="Forest" style="width:100%">
+  </div>
+</div>
+
+
 ### Citation Network using NetworkX
 
 <p align="center">

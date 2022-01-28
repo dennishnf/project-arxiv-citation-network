@@ -20,6 +20,13 @@ The data was extracted from: [https://github.com/mattbierbaum/arxiv-public-datas
 ## Results
 
 
+### Citation Network using NetworkX
+
+<p align="center">
+<img src=".images-readme/citation_network.png" alt="image" width="700"/>
+</p>
+
+
 ### In-degree and Out-degree analysis
 
 <p align="center">
@@ -36,13 +43,6 @@ The data was extracted from: [https://github.com/mattbierbaum/arxiv-public-datas
 <p align="center">
 <img src=".images-readme/in_degree_distribution_fitted.png" alt="image" width="400"/>
 <img src=".images-readme/out_degree_distribution_fitted.png" alt="image" width="400"/>
-</p>
-
-
-### Citation Network using NetworkX
-
-<p align="center">
-<img src=".images-readme/citation_network.png" alt="image" width="700"/>
 </p>
 
 

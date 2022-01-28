@@ -12,6 +12,10 @@
 This project involved the analysis of the ArXiv citation network.
 
 
+<p align="center">
+<img src=".images-readme/approach.png" alt="Flowchart" width="700"/>
+</p>
+
 
 <!---
 

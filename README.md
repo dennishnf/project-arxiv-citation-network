@@ -20,14 +20,21 @@ The data was extracted from: [https://github.com/mattbierbaum/arxiv-public-datas
 ## Results
 
 
+## Results
+
 <p align="center">
 <img src=".images-readme/citation_network.png" alt="Flowchart" width="700"/>
 </p>
 
 
+## Field Category Network using NetworkX
+
 <p align="center">
 <img src=".images-readme/fields_network_networkx.png" alt="Flowchart" width="700"/>
 </p>
+
+
+## Field Category Network using Cytoscape
 
 <p align="center">
 <img src=".images-readme/fields_network_cytoscape.png" alt="Flowchart" width="700"/>

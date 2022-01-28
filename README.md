@@ -27,6 +27,13 @@ The data was extracted from: [https://github.com/mattbierbaum/arxiv-public-datas
 </p>
 
 
+### Table of Centralities
+
+<p align="center">
+<img src=".images-readme/centralities_table.png" alt="Flowchart" width="700"/>
+</p>
+
+
 ### Field Category Network using NetworkX
 
 <p align="center">
@@ -39,6 +46,18 @@ The data was extracted from: [https://github.com/mattbierbaum/arxiv-public-datas
 <p align="center">
 <img src=".images-readme/fields_network_cytoscape.png" alt="Flowchart" width="700"/>
 </p>
+
+
+
+## References
+
+- Clement, C. B., Bierbaum, M., O’Keeffe, K. P., & Alemi, A. A. (2019). On the Use of ArXiv as a Dataset. arXiv [cs.IR]. Opgehaal van http://arxiv.org/abs/1905.00075
+
+- Clauset, A., Shalizi, C. R., & Newman, M. E. J. (2009). Power-Law Distributions in Empirical Data. SIAM Review, 51(4), 661–703. doi:10.1137/070710111
+
+- Page, L., Brin, S., Motwani, R., & Winograd, T. (1998). The PageRank Citation Ranking: Bringing Order to the Web.
+
+
 
 
 <!---

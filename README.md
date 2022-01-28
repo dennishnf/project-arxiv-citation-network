@@ -49,7 +49,7 @@ The data was extracted from: [https://github.com/mattbierbaum/arxiv-public-datas
 ### Table of Centralities
 
 <p align="center">
-<img src=".images-readme/centralities_table.png" alt="image" width="700"/>
+<img src=".images-readme/centralities_table.png" alt="image" width="800"/>
 </p>
 
 

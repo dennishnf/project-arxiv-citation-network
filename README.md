@@ -22,39 +22,37 @@ The data was extracted from: [https://github.com/mattbierbaum/arxiv-public-datas
 
 ### In-degree and Out-degree analysis
 
-<div class="row">
-  <div class="column">
-    <img src=".images-readme/in_degree_distribution.png" alt="Snow" style="width:30%">
-    <img src=".images-readme/out_degree_distribution.png" alt="Forest" style="width:30%">
-  </div>
-</div>
+<p align="center">
+<img src=".images-readme/in_degree_distribution.png" alt="image" width="200"/>
+<img src=".images-readme/out_degree_distribution.png" alt="image" width="200"/>
+</p>
 
 
 ### Citation Network using NetworkX
 
 <p align="center">
-<img src=".images-readme/citation_network.png" alt="Flowchart" width="700"/>
+<img src=".images-readme/citation_network.png" alt="image" width="700"/>
 </p>
 
 
 ### Table of Centralities
 
 <p align="center">
-<img src=".images-readme/centralities_table.png" alt="Flowchart" width="700"/>
+<img src=".images-readme/centralities_table.png" alt="image" width="700"/>
 </p>
 
 
 ### Field Category Network using NetworkX
 
 <p align="center">
-<img src=".images-readme/fields_network_networkx.png" alt="Flowchart" width="700"/>
+<img src=".images-readme/fields_network_networkx.png" alt="image" width="700"/>
 </p>
 
 
 ### Field Category Network using Cytoscape
 
 <p align="center">
-<img src=".images-readme/fields_network_cytoscape.png" alt="Flowchart" width="700"/>
+<img src=".images-readme/fields_network_cytoscape.png" alt="image" width="700"/>
 </p>
 
 

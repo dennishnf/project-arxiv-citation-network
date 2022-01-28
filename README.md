@@ -12,6 +12,18 @@
 This project involved the analysis of the ArXiv citation network.
 
 
+## Data
+
+The data was extracted from: [https://github.com/mattbierbaum/arxiv-public-datasets/releases/tag/v0.2.0](https://github.com/mattbierbaum/arxiv-public-datasets/releases/tag/v0.2.0)
+
+
+## Results
+
+
+<p align="center">
+<img src=".images-readme/citation_network.png" alt="Flowchart" width="700"/>
+</p>
+
 <p align="center">
 <img src=".images-readme/fields_network.png" alt="Flowchart" width="700"/>
 </p>

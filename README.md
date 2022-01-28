@@ -54,7 +54,7 @@ The most important centrality is PageRank, because this measure uncovers nodes w
 </p>
 
 
-### Most influencial papers in arXiv using PageRank Centrality
+### Top 10 influencial papers in arXiv based on PageRank Centrality
 
 Top 1 , Id arXiv: 1705.11098 , Centrality: 0.0024     
 Title: Modified Gravity Theories on a Nutshell: Inflation, Bounce and Late-time  Evolution 

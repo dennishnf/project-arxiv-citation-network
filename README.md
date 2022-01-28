@@ -32,7 +32,9 @@ The data was extracted from: [https://github.com/mattbierbaum/arxiv-public-datas
 
 **Discrete probability power law-distribution, indexed by the degree value k (k greater than $k_{min})$**
 
-$p(k) = \frac{\alpha-1}{k_{min}}.(\frac{k}{k_{min}})^{-\alpha}$
+\begin{equation}
+p(k) = \frac{\alpha-1}{k_{min}}.(\frac{k}{k_{min}})^{-\alpha}
+\end{equation}
 
 - $\alpha$ is the power in the **power-law**
 - $k_{min}$ is the minimum degree for which the **discrete probability law** applies

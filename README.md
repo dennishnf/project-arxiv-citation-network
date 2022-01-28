@@ -29,37 +29,10 @@ The data was extracted from: [https://github.com/mattbierbaum/arxiv-public-datas
 
 ### In-degree and Out-degree analysis
 
-
-**Discrete probability power law-distribution, indexed by the degree value k (k greater than $k_{min})$**
-
-\begin{equation}
-p(k) = \frac{\alpha-1}{k_{min}}.(\frac{k}{k_{min}})^{-\alpha}
-\end{equation}
-
-- $\alpha$ is the power in the **power-law**
-- $k_{min}$ is the minimum degree for which the **discrete probability law** applies
-
-Let us take the logarithm on each side:
-
-For degree k greater than $k_{min}$:
-$log(p(k)) = log(\frac{\alpha-1}{k_{min}}) - \alpha.log(\frac{k}{k_{min}})$
-
-The above expression is linear in $log(\frac{k}{k_{min}})$.
-
-
-**Analogy with linear function: y = cx + b**
-
-- $y = log(p(k))$
-- $x = log(\frac{k}{k_{min}})$ 
-- Intercept: $b = log(\frac{\alpha-1}{k_{min}})$
-- Slope: $c = -\alpha$
-
-
 <p align="center">
 <img src=".images-readme/in_degree_distribution.png" alt="image" width="350"/>
 <img src=".images-readme/out_degree_distribution.png" alt="image" width="350"/>
 </p>
-
 
 <p align="center">
 <img src=".images-readme/in_degree_distribution_loglog.png" alt="image" width="350"/>

@@ -66,10 +66,10 @@ Top 3 , Id arXiv: 1811.09514 , Centrality: 0.002
 Title: Higgs inflation in the Palatini formulation with kinetic terms for the  metric 
 
 Top 4 , Id arXiv: 1501.05671 , Centrality: 0.002     
-Title: Resurgence and the Nekrasov-Shatashvili Limit: Connecting Weak and  Strong Coupling in the Mathieu and Lam'e Systems 
+Title: Resurgence and the Nekrasov-Shatashvili Limit: Connecting Weak and  Strong Coupling in the ... 
 
 Top 5 , Id arXiv: 1607.01001 , Centrality: 0.0019     
-Title: Dark Matter from a Classically Scale-Invariant $SU(3)_X$ 
+Title: Dark Matter from a Classically Scale-Invariant SU(3) X 
 
 Top 6 , Id arXiv: 0710.4947 , Centrality: 0.0018     
 Title: Physics at a future Neutrino Factory and super-beam facility 
@@ -78,7 +78,7 @@ Top 7 , Id arXiv: 1812.11159 , Centrality: 0.0018
 Title: Spatially modulated and supersymmetric deformations of ABJM theory 
 
 Top 8 , Id arXiv: 1802.10257 , Centrality: 0.0016     
-Title: The correlation of extragalactic $\gamma$-rays with cosmic matter  density distributions from weak-gravitational lensing 
+Title: The correlation of extragalactic $\gamma$-rays with cosmic matter  density distributions from ...
 
 Top 9 , Id arXiv: 1502.02866 , Centrality: 0.0016     
 Title: The nature of the Diffuse Gamma-Ray Background 

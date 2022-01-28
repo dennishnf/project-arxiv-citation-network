@@ -48,6 +48,8 @@ The data was extracted from: [https://github.com/mattbierbaum/arxiv-public-datas
 
 ### Table of Centralities
 
+The most important centrality is PageRank, because this measure uncovers nodes whose influence extends beyond their direct connections into the wider network.
+
 <p align="center">
 <img src=".images-readme/centralities_table.png" alt="image" width="800"/>
 </p>

@@ -30,19 +30,19 @@ The data was extracted from: [https://github.com/mattbierbaum/arxiv-public-datas
 ### In-degree and Out-degree analysis
 
 <p align="center">
-<img src=".images-readme/in_degree_distribution.png" alt="image" width="400"/>
-<img src=".images-readme/out_degree_distribution.png" alt="image" width="400"/>
+<img src=".images-readme/in_degree_distribution.png" alt="image" width="350"/>
+<img src=".images-readme/out_degree_distribution.png" alt="image" width="350"/>
 </p>
 
 
 <p align="center">
-<img src=".images-readme/in_degree_distribution_loglog.png" alt="image" width="400"/>
-<img src=".images-readme/out_degree_distribution_loglog.png" alt="image" width="400"/>
+<img src=".images-readme/in_degree_distribution_loglog.png" alt="image" width="350"/>
+<img src=".images-readme/out_degree_distribution_loglog.png" alt="image" width="350"/>
 </p>
 
 <p align="center">
-<img src=".images-readme/in_degree_distribution_fitted.png" alt="image" width="400"/>
-<img src=".images-readme/out_degree_distribution_fitted.png" alt="image" width="400"/>
+<img src=".images-readme/in_degree_distribution_fitted.png" alt="image" width="350"/>
+<img src=".images-readme/out_degree_distribution_fitted.png" alt="image" width="350"/>
 </p>
 
 

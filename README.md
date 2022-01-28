@@ -54,36 +54,36 @@ The most important centrality is PageRank, because this measure uncovers nodes w
 </p>
 
 
-### Most influencial papers in arXiv
+### Most influencial papers in arXiv using PageRank Centrality
 
-Top 1 , Id arXiv: 1705.11098 , Centrality: 0.0024
+Top 1 , Id arXiv: 1705.11098 , Centrality: 0.0024     
 Title: Modified Gravity Theories on a Nutshell: Inflation, Bounce and Late-time  Evolution 
 
-Top 2 , Id arXiv: 1812.00847 , Centrality: 0.0023
+Top 2 , Id arXiv: 1812.00847 , Centrality: 0.0023     
 Title: Rescuing Quartic and Natural Inflation in the Palatini Formalism 
 
-Top 3 , Id arXiv: 1811.09514 , Centrality: 0.002
+Top 3 , Id arXiv: 1811.09514 , Centrality: 0.002     
 Title: Higgs inflation in the Palatini formulation with kinetic terms for the  metric 
 
-Top 4 , Id arXiv: 1501.05671 , Centrality: 0.002
+Top 4 , Id arXiv: 1501.05671 , Centrality: 0.002     
 Title: Resurgence and the Nekrasov-Shatashvili Limit: Connecting Weak and  Strong Coupling in the Mathieu and Lam'e Systems 
 
-Top 5 , Id arXiv: 1607.01001 , Centrality: 0.0019
+Top 5 , Id arXiv: 1607.01001 , Centrality: 0.0019     
 Title: Dark Matter from a Classically Scale-Invariant $SU(3)_X$ 
 
-Top 6 , Id arXiv: 0710.4947 , Centrality: 0.0018
+Top 6 , Id arXiv: 0710.4947 , Centrality: 0.0018     
 Title: Physics at a future Neutrino Factory and super-beam facility 
 
-Top 7 , Id arXiv: 1812.11159 , Centrality: 0.0018
+Top 7 , Id arXiv: 1812.11159 , Centrality: 0.0018     
 Title: Spatially modulated and supersymmetric deformations of ABJM theory 
 
-Top 8 , Id arXiv: 1802.10257 , Centrality: 0.0016
+Top 8 , Id arXiv: 1802.10257 , Centrality: 0.0016     
 Title: The correlation of extragalactic $\gamma$-rays with cosmic matter  density distributions from weak-gravitational lensing 
 
-Top 9 , Id arXiv: 1502.02866 , Centrality: 0.0016
+Top 9 , Id arXiv: 1502.02866 , Centrality: 0.0016     
 Title: The nature of the Diffuse Gamma-Ray Background 
 
-Top 10 , Id arXiv: 1901.11298 , Centrality: 0.0016
+Top 10 , Id arXiv: 1901.11298 , Centrality: 0.0016     
 Title: Non Unitarity at DUNE and T2HK with Charged and Neutral Current  Measurements 
 
 

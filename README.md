@@ -27,7 +27,7 @@ The data was extracted from: [https://github.com/mattbierbaum/arxiv-public-datas
     <img src=".images-readme/in_degree_distribution.png" alt="Snow" style="width:30%">
   </div>
   <div class="column">
-    <img src=".images-readme/out_degree_distribution.png" alt="Forest" style="width:3%">
+    <img src=".images-readme/out_degree_distribution.png" alt="Forest" style="width:30%">
   </div>
 </div>
 
